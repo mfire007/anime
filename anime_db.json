@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Solo Leveling",
+    "type": "Топ недели",
+    "icon": "zap",
+    "rating": "9.2",
+    "description": "Мир, где охотники сражаются с монстрами. Самый слабый охотник получает шанс стать величайшим.",
+    "watch_order": ["1 сезон (12 серий)", "2 сезон (в эфире)"],
+    "poster": "https://placehold.co/400x600/222/white?text=Solo+Leveling"
+  },
+  {
+    "id": 2,
+    "title": "Sousou no Frieren",
+    "type": "Шедевр",
+    "icon": "sparkles",
+    "rating": "9.8",
+    "description": "История о приключениях эльфийской волшебницы после того, как отряд героев уже победил короля демонов.",
+    "watch_order": ["Основной сериал (28 серий)"],
+    "poster": "https://placehold.co/400x600/222/white?text=Frieren"
+  }
+]
